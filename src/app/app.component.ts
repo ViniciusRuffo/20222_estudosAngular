@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'component-data-binding';
+  nome = 'Vinicius Ruffo';
+  idade = 22;
 }
